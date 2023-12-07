@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zechuan Zhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,9 +83,9 @@ author:
   name             : "Zechuan Zhang <br> 张泽川"
   avatar           : "pngprofile.png"
   bio              : "PhD student in <a href='https://www.zju.edu.cn/'>ReLER, CCAI, Zhejiang University</a>"
-  location         : "Location"
+  location         : "https://www.zju.edu.cn/"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TNu_YfYAAAAJ&hl=zh-CN"
   email            : zechuan@zju.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561199439740151/"
   tumblr           :
   twitter          : 
   vine             :
