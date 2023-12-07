@@ -6,7 +6,7 @@ excerpt: 'In this paper, we present the Global-correlated 3D-decoupling Transfor
 date: 2023-09-21
 venue: 'NeurIPS 2023'
 paperurl: 'https://river-zhang.github.io/GTA-projectpage/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Zhang Z, Sun L, Yang Z, et al. Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction[J]. arXiv preprint arXiv:2309.13524, 2023.'
 ---
 In this paper, we present the Global-correlated 3D-decoupling Transformer for clothed Avatar reconstruction (GTA), a novel transformer-based architecture that reconstructs clothed human avatars from monocular images.
 
