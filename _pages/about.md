@@ -10,7 +10,12 @@ redirect_from:
 
 About Me
 ======
-I am currently a PhD student in computer science at Zhejiang University under the supervision of [Prof. Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=zh-CN&oi=ao)
+I am currently a PhD student in computer science at Zhejiang University under the supervision of [Prof. Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=zh-CN&oi=ao). Prior to that, I obtained the B.Sc Degree in Geographical Information Science from Zhejiang University in 2023.
+
+**Email:**zechuan [at] zju.edu.cn
+
+
+
 
 
 
