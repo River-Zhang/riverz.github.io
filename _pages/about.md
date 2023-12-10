@@ -25,6 +25,9 @@ I am currently a PhD student in Computer Science at Zhejiang University under th
 {% include base_path %}
 
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
