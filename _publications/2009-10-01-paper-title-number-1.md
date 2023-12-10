@@ -6,4 +6,4 @@ date: 2023-09-21
 venue: 'NeurIPS'
 paperurl: 'https://river-zhang.github.io/GTA-projectpage/'
 ---
-[Download paper here](https://arxiv.org/pdf/2309.13524.pdf)
+
